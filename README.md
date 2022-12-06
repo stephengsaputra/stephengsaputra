@@ -4,7 +4,7 @@
 <img alt="Stephen Giovanni Saputra" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Stephen+Giovanni+Saputra;A+Swift+Developer;A+UI+Designer&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
-- 👀 Interested in Swift and Product Management!
+- 👀 Interested in Swift and UI Designs!
 - 🌱 Currently an Apple Developer Academy @Binus C5S1 Student
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephengsaputra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-<img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Gregorius+Albert;A+Swift+Developer;A+Laravel+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
+<img alt="Stephen Giovanni Saputra" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Stephen+Giovanni+Saputra;A+Swift+Developer;A+UI+Designer&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 - 👀 Interested in Swift and Product Management!

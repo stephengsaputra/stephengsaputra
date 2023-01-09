@@ -3,7 +3,7 @@
 </h3>
 
 - 👀 Interested in Swift and UI Designing!
-- 🌱 Currently an Apple Developer Academy @BINUS Cohort 5 Student
+- 🌱 Currently learning Flutter and Dart development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephengsaputra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,9 +15,11 @@
 
 <div style="white-space:nowrap;">
     <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-    <img height="35" style="padding-right: 10px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
     <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
     <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 </div>
 <br/>

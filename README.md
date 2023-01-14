@@ -5,7 +5,7 @@
 - 👀 Interested in Swift and UI Designing!
 - 🌱 Currently learning Flutter and Dart development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephengsaputra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephengsaputra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephengsaputra&theme=vue-dark)](https://git.io/streak-stats)
 
